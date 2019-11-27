@@ -1,0 +1,9 @@
+rgname = "myterraform"
+rglocation = "West US"
+vnetaddress = "11.0.0.0/16"
+vnetname = "myvnet"
+subnetaddress = ["11.0.0.1/24", "11.0.1.1/24", "11.0.1.2/24"]
+subnetname = ["mysubnet1", "mysubnet2", "mysubnet3"]
+nicname = ["mynic1","mynic2","mynic3"]
+publicipname = "mypubip"
+ipconfigname = "myipconfig"
